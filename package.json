@@ -1,0 +1,51 @@
+{
+  "name": "datingapp.spa",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "alertifyjs": "^1.11.4",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "bootswatch": "^4.3.1",
+    "classnames": "^2.2.6",
+    "font-awesome": "^4.7.0",
+    "joi-browser": "^13.4.0",
+    "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.10.1",
+    "react-calendar": "^2.18.1",
+    "react-dom": "^16.10.1",
+    "react-dropzone": "^10.1.5",
+    "react-moment": "^0.9.7",
+    "react-redux": "^7.0.3",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.1.2",
+    "react-timeago": "^4.4.0",
+    "reactstrap": "^8.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

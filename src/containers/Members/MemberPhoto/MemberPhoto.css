@@ -1,0 +1,18 @@
+.memberPhoto {
+  height: 100px;
+  min-width: 100px !important;
+  margin-bottom: 2px;
+}
+
+.not-approved {
+  opacity: 0.2;
+}
+
+.img-wrapper {
+  position: relative;
+}
+
+.img-text {
+  position: absolute;
+  bottom: 30%;
+}

@@ -1,0 +1,15 @@
+.carousel_wrapper {
+  padding: 1.5rem;
+  margin-right: 0;
+  margin-left: 0;
+  border-width: 0.2rem;
+  box-sizing: border-box;
+}
+
+.carousel-caption h3 {
+  color: #a991d470;
+}
+
+.carousel-caption p {
+  color: #a991d4;
+}

@@ -1,0 +1,10 @@
+.UserPhoto {
+  height: 50px;
+  width: 50px;
+  max-height: 50px;
+  border: 2px solid white;
+}
+
+.DropDownItem:hover {
+  color: white !important;
+}
